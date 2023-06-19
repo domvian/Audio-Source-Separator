@@ -1,0 +1,21 @@
+
+
+
+
+INSTRUCTIONS
+
+1. Start a python virtual environment and install requirements from the 'requirements.txt' file 
+
+2. Run python file in the terminal to open application 
+
+3. Click upload audio button and upload either a .wav or .mp3 file 
+
+4. You can listen to the whole audio by clicking the listen button
+
+5. Run the audio separator (this could take a while depending on how long the audio is) 
+
+6. When separator is complete it with save the audio files in your downloads folder in the folder 'htdemucs' You will see another folder inside by the name of the audio file you uploaded. You can also listen to the extracted audio within the app
+
+7. You can choose which tracks you want to extract the midi for and they will be saved in the same place as the audio. 
+
+8. You can restart the process by clicking the 'Upload audio' button again
